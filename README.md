@@ -1,4 +1,4 @@
-# PRoduct API
+# Product API
 
 This is a server set up that communicates with my MongoDB database to perform CRUD actions to manipulate Product data.
 
